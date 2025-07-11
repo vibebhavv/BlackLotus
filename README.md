@@ -8,6 +8,7 @@
 - Uses github search engine
 - Easily scrapes API/Token/creds/Key
 - Supports Proxies
+- Check Github dorking pattern for file-type search
 ## Installation
 
 
@@ -22,7 +23,7 @@
 Github Auth token **REQUIRED**
 
 ```
-python3 main.py -s {API/TOKEN/CRED/KEY} --limit 20 -ftype {env/txt/json/config/log/} -o output.txt
+python3 main.py -s {API/TOKEN/CRED/KEY} --limit 20 -ftype {env/txt/json/config/log} -o output.txt
 ```
 ## Other resources
 
