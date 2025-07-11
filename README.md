@@ -22,7 +22,7 @@
 Github Auth token **REQUIRED**
 
 ```
-python3 main.py -s {API/TOKEN/CRED/KEY} --limit 20 -ftype env -o output.txt
+python3 main.py -s {API/TOKEN/CRED/KEY} --limit 20 -ftype {env/txt/json/config/log/} -o output.txt
 ```
 ## Other resources
 
