@@ -9,8 +9,8 @@
 - Easily scrapes API/Token/creds/Key
 - Supports Proxies
 - Check Github dorking pattern for file-type search
-## Installation
 
+## Installation
 
 ```bash
   git clone https://github.com/vibebhavv/BlackLotus
@@ -18,6 +18,7 @@
   pip3 install requests
   python3 main.py --help
 ```
+
 ### Use case
 
 Github Auth token **REQUIRED**
