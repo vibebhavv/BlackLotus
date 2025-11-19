@@ -1,5 +1,5 @@
 
-# [Discontinued] BlackLotus
+# [⚠️Discontinued] BlackLotus
 
 **BlackLotus** is an advanced live scraping tool designed specifically for the GitHub search engine. It automates the process of discovering and collecting sensitive information such as exposed API keys, access tokens, credentials, and secret keys. By leveraging custom-crafted dorks, BlackLotus continuously scans public repositories and commits in real-time, helping security researchers, bug bounty hunters, and developers identify accidental leaks of confidential data before they can be exploited.
 
